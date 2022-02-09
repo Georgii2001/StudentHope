@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <JoburiAngajat>
+    <idJob>1</idJob>
+    <Firma>Roweb</Firma>
+    <Departament>IT</Departament>
+    <Studii>Licenta</Studii>
+    <Oras>Pitesti</Oras>
+    <Post>Web Developer</Post>
+    <Descriere>Nu suntem o corporatie. Suntem o companie dinamica si entuziasta, unde vei avea ocazia sa lucrezi cu ultimele tehnologii de pe piata.
+
+
+inveti sa faci un proiect web de la A la Z, cu cele mai moderne tehnologii;
+dezvolti proiecte in echipa alaturi de mentori cu experienta din Pitesti si Craiova;
+cunosti oameni noi din industrie si te conectezi cu programatori din toate orasele in care avem echipe si colegi (Bucuresti, Craiova, Pitesti, Iasi, Oradea, Rm. Vâlcea, etc);
+inveti intr-un mediu sigur si flexibil - stagiul de practica se desfasoara doar online;
+poti obtine un internship platit + ulterior sansa de angajare;
+la finalul stagiului primesti adeverinta de practica si recomandare;
+faci primul pas important pentru o cariera in programare.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </Descriere>
+  </JoburiAngajat>
+  <JoburiAngajat>
+    <idJob>2</idJob>
+    <Firma>Roweb</Firma>
+    <Departament>IT</Departament>
+    <Studii>Master</Studii>
+    <Oras>Pitesti</Oras>
+    <Post>QA Automation Tester</Post>
+    <Descriere>If you have:
+
+good communication skills, and up-to-date knowledge of software programming and software test design;
+the capability to run through tests and analyze the results;
+good knowledge of test automation using Selenium + C# for web applications;
+support test automation solutions for different environments (Web, Web services and XML);
+strong understanding of various test frameworks and should be able to extend the T&amp;L IT Keyword Driven Selenium Test framework to existing and new digital assets.
+We will like to meet you, as soon as possible, just click on "Aplica".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </Descriere>
+  </JoburiAngajat>
+</NewDataSet>
